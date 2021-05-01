@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-from RecoverDigits.recover import recover
+from codewars_s_z.RecoverDigits.recover import recover
 
 
 def main():
